@@ -10,13 +10,12 @@ This application is designed to manage pickups for the user with a very easy to 
 ## The user can - 
 
 ### Request Pickups<br>
-![title_image1]()
+![title_image1](https://github.com/Adarsh-gif-crypt/Online_Logistics_Management_System/blob/main/Screenshots/Screenshot%202021-04-27%20160825.png)
 <br><br>
 ### Check Status of Pickups<br>
-![title_image2]()
+![title_image2](https://github.com/Adarsh-gif-crypt/Online_Logistics_Management_System/blob/main/Screenshots/Screenshot%202021-04-27%20160847.png)
 <br><br>
 ### Calculate Rate<br>
-![title_image3]()
+![title_image3](https://github.com/Adarsh-gif-crypt/Online_Logistics_Management_System/blob/main/Screenshots/Screenshot%202021-04-27%20160904.png)
 <br><br>
-### Print Invoices<br>
-![title_image4]()
+### and print their list of pickups!
