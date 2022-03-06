@@ -15,4 +15,8 @@ This application is designed to manage pickups for the user with a very easy to 
 ### Check Status of Pickups<br>
 ![title_image2]()
 <br><br>
-### Calculate Rate
+### Calculate Rate<br>
+![title_image3]()
+<br><br>
+### Print Invoices<br>
+![title_image4]()
